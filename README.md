@@ -1,8 +1,11 @@
 # SixCord Bot
 
+SixCord is a open source Discord bot and dashboard coded in JavaScript.
+Feel free to star ⭐ our repostory to help us grow!
 
 ## Features
  SixCord offers this features to our users:
+ 
 · ⚙️ Dashboard website.
 
 · 🗳️ +65 commands.
