@@ -1,6 +1,12 @@
 # SixCord Bot
 
 
+## Features
+ SixCord offers this features to our users:
+· ⚙️ Dashboard website.
+· 🗳️ +65 commands.
+· ✉️ Discord Support Server.
+
 ## Installation
 Want to edit this source code and host it? 
 You must follow the [installation guide](https://github.com/SixCord/dashboard/wiki). Need help? Join our [Discord](https://sixcord.xyz/support)
