@@ -1,8 +1,13 @@
 # SixCord Bot
 
 
+## Installation
+Want to edit this source code and host it? 
+You must follow the [installation guide](https://github.com/SixCord/dashboard/wiki). Need help? Join our [Discord](https://sixcord.xyz/support)
+
 ## Links
 · [Discord](https://sixcord.xyz/support)
+
 · [Dashboard](https://sixcord.xyz/login)
 
 
