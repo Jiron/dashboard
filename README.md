@@ -4,7 +4,9 @@
 ## Features
  SixCord offers this features to our users:
 · ⚙️ Dashboard website.
+
 · 🗳️ +65 commands.
+
 · ✉️ Discord Support Server.
 
 ## Installation
